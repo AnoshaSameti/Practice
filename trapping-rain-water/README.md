@@ -1,9 +1,9 @@
-# 🌊 Trapping Rain Water
+# 🌧 Trapping Rain Water
 
 > A simple Python solution that calculates the total amount of rainwater trapped between elevations.
 
 
-## 🌍 Original Task
+# 📑 Original Task
 
 In this problem, we want to calculate the volume of water trapped between terrain elevations.
 
