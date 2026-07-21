@@ -11,6 +11,7 @@ You are given **n** integers representing the heights of these elevations. Your 
 
 In the original illustration, the elevations are shown in **black**, while the trapped water is shown in **blue**. The input consists of a list of integers, each representing the height of an elevation.
 
+<img width="409" height="154" alt="taskrain" src="https://github.com/user-attachments/assets/2cc10517-ead6-4883-91c0-56a98c6da726" />
 
 ## 📖 Description
 
