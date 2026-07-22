@@ -28,6 +28,14 @@ Practice/
 │   └── README.md
 │   └── taskrain.png
 │
+│── Fruit machine/
+│   ├── Fruit machine.py
+│   └── README.md
+│
+│── Readable Time/
+│   ├── Readable Time.py
+│   └── README.md
+│
 └── ...
 ```
 
@@ -36,8 +44,10 @@ Practice/
 | Problem | Description |
 |---------|-------------|
 | 🔐 Caesar Cipher V2 | Encrypt a message using a Caesar Cipher with an increasing shift for each letter. |
-| 🔓 Caesar Cipher is hacked | Recover the original message using a known plaintext character and the encryption rules. |
-| 🌧 Trapping Rain Water | Calculate the total volume of rainwater trapped between terrain elevations. |
+| 🔓 Caesar Cipher is Hacked | Recover the original message using a known plaintext character and the encryption rules. |
+| 🌧️ Trapping Rain Water | Calculate the total volume of rainwater trapped between terrain elevations. |
+| ⏱️ Human Readable Time | Convert a number of seconds into a human-readable time string in the format `HH:MM:SS`. |
+| 🎰 Fruit Machine | Simulate a three-reel slot machine and calculate the player's score based on the symbols rolled. |
 
 ## 🎯 Purpose
 
