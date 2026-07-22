@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # 🌧 Trapping Rain Water
 
 > A simple Python solution that calculates the total amount of rainwater trapped between elevations.
