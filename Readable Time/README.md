@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # ⏱️ Human Readable Time
 
 My Python solution to the Codewars kata **"Human Readable Time"**.
