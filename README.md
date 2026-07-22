@@ -4,6 +4,7 @@ A collection of my solutions to various programming and algorithmic problems.
 
 This repository serves as a personal archive of interesting coding tasks, university exercises, and algorithm implementations. The problems are **independent of one another**, and each is organized in its own folder.
 
+
 ## 📂 Repository Structure
 
 Each problem has its own directory containing:
@@ -36,8 +37,13 @@ Practice/
 │   ├── Readable Time.py
 │   └── README.md
 │
+│── Connect-four/
+│   ├── connect4.py
+│   └── README.md
+│
 └── ...
 ```
+
 
 ## 📖 Current Problems
 
@@ -48,6 +54,8 @@ Practice/
 | 🌧️ Trapping Rain Water | Calculate the total volume of rainwater trapped between terrain elevations. |
 | ⏱️ Human Readable Time | Convert a number of seconds into a human-readable time string in the format `HH:MM:SS`. |
 | 🎰 Fruit Machine | Simulate a three-reel slot machine and calculate the player's score based on the symbols rolled. |
+| 🔴🟡 Connect Four | Simulate a Connect Four game and determine the winner by checking horizontal, vertical, and diagonal connections. |
+
 
 ## 🎯 Purpose
 
