@@ -37,7 +37,7 @@ Practice/
 |---------|-------------|
 | 🔐 Caesar Cipher V2 | Encrypt a message using a Caesar Cipher with an increasing shift for each letter. |
 | 🔓 Caesar Cipher is hacked | Recover the original message using a known plaintext character and the encryption rules. |
-| 🌊 Trapping Rain Water | Calculate the total volume of rainwater trapped between terrain elevations. |
+| 🌧 Trapping Rain Water | Calculate the total volume of rainwater trapped between terrain elevations. |
 
 ## 🎯 Purpose
 
