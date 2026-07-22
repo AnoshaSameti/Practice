@@ -4,6 +4,7 @@
 
 A simple Python program that decrypts an encoded message using a known plaintext character.
 
+
 ## ⁉ Problem
 
 A hacker obtained several encrypted messages along with some additional information that can help decrypt them.
@@ -17,6 +18,7 @@ You are given:
 Using this information, decrypt and print the original message.
 
 > **Note:** Spaces are **not counted** as letters when determining the `n`th position.
+
 
 ### Example
 
